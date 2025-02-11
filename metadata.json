@@ -1,0 +1,278 @@
+{
+  "request_resource_message_id": "1337715121195061309",
+  "requesters": {
+    "239194797406027777": {
+      "id": "239194797406027777",
+      "name": "Xandermor",
+      "requests": {
+        "8": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 33,
+            "heroic": 33,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "9": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "10": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "11": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "12": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "13": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "14": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "15": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "16": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "17": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "18": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "19": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "20": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "21": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "22": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "23": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 48,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "24": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "25": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "26": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "27": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "28": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        },
+        "29": {
+          "name": "Acacia Plank",
+          "amount": {
+            "common": 0,
+            "uncommon": 40,
+            "rare": 0,
+            "heroic": 0,
+            "epic": 0,
+            "legendary": 0
+          },
+          "timestamp": 1739266566528
+        }
+      }
+    }
+  },
+  "request_messages": {
+    "239194797406027777": "1338819042781298709"
+  }
+}

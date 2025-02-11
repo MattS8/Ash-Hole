@@ -1,0 +1,27 @@
+const { SlashCommandBuilder } = require('discord.js');
+const config = require('../modules/config');
+
+const data = new SlashCommandBuilder()
+        .setName('set_officer_role')
+        .setDescription('Set the officer role for admin control of the bot')
+        .addStringOption(option => option.setName('role_id').setDescription('The role to set as the officer role').setRequired(true));
+
+async function run(interaction, client) {
+    const roleId = interaction.options.getString('role_id');
+    const role = interaction.guild.roles.cache.get(roleId);
+    if (!role) {
+        await interaction.reply({ content: 'Invalid role ID', ephemeral: true });
+        return;
+    }
+
+    const cfg = config.getConfig();
+    cfg.roles.officer = roleId;
+    config.setConfig(cfg);
+
+    await interaction.reply({ content: `Officer role set to ${role.name} (${roleId})`, flags: ['Ephemeral'] });
+}
+
+module.exports = {
+    data,
+    run
+}
